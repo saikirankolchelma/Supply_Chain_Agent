@@ -1,0 +1,52 @@
+# Ignore Python-related files
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore SQLite database files
+supply_chain.db
+
+# Ignore environment variables
+.env
+
+# Ignore dependency caches
+pip-cache/
+.eggs/
+*.egg-info/
+
+# Ignore distribution/build artifacts
+dist/
+build/
+*.whl
+*.egg
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*~
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Streamlit cache directories
+.streamlit/
