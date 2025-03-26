@@ -4,7 +4,15 @@ Welcome to the Supply Chain Agent ! This document provides a comprehensive overv
 Overview 🌟
 The Supply Chain Agent is a conversational AI tool designed to assist distributors by answering queries related to stock availability, order status, and pricing changes. It integrates a Streamlit frontend , a FastAPI backend , and an SQLite database to deliver seamless responses to user queries. The agent leverages the Mistral 7B v1 large language model (LLM) to generate human-readable responses.
 
+
+Video Demonstration 🎥
+
+For a better understanding of how the Supply Chain Agent works, check out the video demonstration below:
+
+link: https://drive.google.com/file/d/1nRg6UyhlRhoFHXfFZ1f92ccdAp5pDXdo/view?usp=drivesdk
+
 Application Architecture 🏗️
+
 Here’s a high-level overview of the application architecture:
 
     +-------------------+       +-------------------+       +-------------------+
